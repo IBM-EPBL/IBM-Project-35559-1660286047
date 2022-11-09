@@ -1,1 +1,0 @@
-3.Upload a css page to the object storage and use the same page in your HTML code.
